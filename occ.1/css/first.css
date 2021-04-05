@@ -1,0 +1,105 @@
+
+.container{
+    margin:20px;
+}
+
+
+
+.bg-img {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSZ3C_LfOumvyUqOQkY8FFICunlhyXMak4g&usqp=CAU");
+    min-height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .bg-img p{
+      margin: 20px;
+      text-align: center;
+      padding-top: 40px;
+  }
+
+  
+
+ h4,h5{
+     text-align: center;
+ }
+
+ .services .icon-box {
+     margin: 20px;
+    padding: 30px;
+    position: relative;
+    background: rgb(255, 224, 224);
+    box-shadow: 2px 3px;
+    transition: all 0.3s ease-in-out;
+    text-align: center;
+    border: 1px solid #fff;
+    border-radius: 30px;
+  }
+  
+  
+  .services .icon-box:hover {
+    border-color: #b94e10;
+  }
+  
+  .services .icon-box:hover .title a {
+    color: #ffb727;
+  }
+  
+  .col-3 .icon-box i .fa-5x {
+    padding: 10px;
+  }
+  
+ .browse .icon-box {
+   height:250px;
+   width: 250px;
+   padding:20px;
+   margin:20px;
+   position: relative;
+   background: rgb(255,255,255);
+   box-shadow: 2px 3px;
+   text-align: center;
+   border: 1px solid rgb(66, 223, 19);
+   border-radius: 30px;
+ }
+ h3{
+   text-align: center;
+   padding: 30px;
+   margin: 30px;
+ }
+ .row .col-2 img{
+     width: 300px;
+     height: 300px;
+     margin: 30px;
+     border-radius: 50px;
+ }
+ div col-2 b{
+   padding-top:30px;
+   margin-top: 30px;
+
+ }
+
+ .row .col-6 img {
+   width:500px;
+   height:500px;
+   padding: 20px;
+   border-radius: 50%;
+ }
+
+ .row .col-6{
+   padding-top:30px;
+ }
+
+ .footer{
+   padding: 30px;
+   margin: 30px;
+   background: rgb(46, 37, 83);
+   color: white;
+ }
+ .container-fluid .row{
+   background-color: rgb(201, 213, 245);
+   margin-bottom: 10px;
+ }
+  
+  
+  
